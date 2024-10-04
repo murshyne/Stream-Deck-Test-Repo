@@ -28,7 +28,7 @@ dghjgdhgjdgj
 const greet = function(name) {
     console.log("");
 dfghjghjghgfh
-}hjkjhkjkh
+}
 console.log();
 fgyyjuyyjyj
 let i = 5;
@@ -37,3 +37,9 @@ for (let i = 0; i < 10; i++) {
   };hhhhghjhgjhjghjhgjhjhjhg
 
   dghjgjdhgjhgj
+  ikkkkkkkk
+  kkkkkkkkkkk
+  hgjhgjfhjhjhgjfh
+  hgdjhgjdhgjhgfkihgjdghjhg
+  fkljljlkjlhkjl
+  gklkjhlklhklhklk
