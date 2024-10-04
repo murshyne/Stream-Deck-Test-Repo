@@ -30,8 +30,10 @@ const greet = function(name) {
 dfghjghjghgfh
 }hjkjhkjkh
 console.log();
-
+fgyyjuyyjyj
 let i = 5;
 for (let i = 0; i < 10; i++) {
   // some statements
-  };hhhh
+  };hhhhghjhgjhjghjhgjhjhjhg
+
+  dghjgjdhgjhgj
